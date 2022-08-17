@@ -1,0 +1,16 @@
+
+  .navbar{
+    background-color: $primary-color-blue;
+    box-shadow: $box-shadow-custom;
+    .navbar__button{
+    background-color: $primary-color-blue;
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0.5), $primary-color-green);
+        border: none;
+        box-shadow: $box-shadow-custom;
+        transition: all 3s ease;
+        &:hover{
+            scale: 1.2;
+          }
+      }
+  }
+  

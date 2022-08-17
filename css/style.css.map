@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../scss/_globals.scss","../scss/_navbar.scss","../scss/_variables.scss","../scss/_footer.scss"],"names":[],"mappings":"AAAA;EACI;EACA;EACA;;;AAGJ;EACI;;AACA;EACI;;;AAIN;EACE;;;AAGF;EACE;EACA;EACA;EACA;;AACA;EACI;;;ACtBN;EACE,kBCFiB;EDGjB,YCDgB;;ADEhB;EACA,kBCLiB;EDMjB;EACI;EACA,YCNY;EDOZ;;AACA;EACI;;;AEXZ;EACI,kBDDiB","file":"style.css"}
