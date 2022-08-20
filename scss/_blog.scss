@@ -1,0 +1,11 @@
+.article__active{
+    &--body{
+        color: $primary-color-blue;
+    }
+    &--intro{
+        @extend .article__active--body;
+        font-weight: map-get($font-weights, bold);
+            &:hover {@include theme(true);
+            }
+    }
+}

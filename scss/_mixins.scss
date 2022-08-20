@@ -1,0 +1,5 @@
+@mixin theme($green-theme: true) {
+    @if $green-theme {
+        color: $primary-color-green;
+    }
+}
