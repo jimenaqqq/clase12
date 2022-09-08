@@ -4,20 +4,19 @@
   box-sizing: border-box;
 }
 
+body {
+  padding-top: 100px;
+}
+
 ul {
   list-style: none;
 }
-
 ul li {
   padding: 1rem;
 }
 
 a {
   text-decoration: none;
-}
-
-body {
-  padding-top: 100px;
 }
 
 .main__button {

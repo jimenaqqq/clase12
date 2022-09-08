@@ -1,7 +1,6 @@
 {
   "name": "clase12",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "compile:sass": "sass --watch scss/style.scss css/style.css"
@@ -16,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/jimenaqqq/clase12/issues"
   },
-  "homepage": "https://github.com/jimenaqqq/clase12#readme"
+  "homepage": "https://github.com/jimenaqqq/clase12#readme",
+  "description": ""
 }
