@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -5,7 +6,7 @@
 }
 
 body {
-  padding-top: 100px;
+  padding-top: 120px;
 }
 
 ul {
@@ -56,6 +57,7 @@ footer {
 }
 .article__active--intro:hover {
   color: #61FF7E;
+  scale: 1.1;
 }
 
 /*# sourceMappingURL=style.css.map */

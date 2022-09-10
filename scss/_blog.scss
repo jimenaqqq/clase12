@@ -6,6 +6,7 @@
         @extend .article__active--body;
         font-weight: map-get($font-weights, bold);
             &:hover {@include theme(true);
+                scale: 1.1;
             }
     }
 }
